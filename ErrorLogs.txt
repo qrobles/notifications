@@ -1,0 +1,84 @@
+Telegram.Bot.Exceptions.ApiRequestException: Bad Request: there is no caption in the message to edit
+   at Telegram.Bot.TelegramBotClient.MakeRequestAsync[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at Telegram.Bot.TelegramBotClientExtensions.EditMessageCaptionAsync(ITelegramBotClient botClient, ChatId chatId, Int32 messageId, String caption, Nullable`1 parseMode, IEnumerable`1 captionEntities, InlineKeyboardMarkup replyMarkup, CancellationToken cancellationToken)
+   at Program.<<Main>$>g__HandleCallbackQuery|0_4(ITelegramBotClient botClient, CallbackQuery callbackQuery) in D:\Desktop\krasota-Vanya\notifications\Program.cs:line 198
+
+17.10.2023 16:38:07
+Telegram.Bot.Exceptions.ApiRequestException: Bad Request: there is no caption in the message to edit
+   at Telegram.Bot.TelegramBotClient.MakeRequestAsync[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at Telegram.Bot.TelegramBotClientExtensions.EditMessageCaptionAsync(ITelegramBotClient botClient, ChatId chatId, Int32 messageId, String caption, Nullable`1 parseMode, IEnumerable`1 captionEntities, InlineKeyboardMarkup replyMarkup, CancellationToken cancellationToken)
+   at Program.<<Main>$>g__HandleCallbackQuery|0_4(ITelegramBotClient botClient, CallbackQuery callbackQuery) in D:\Desktop\krasota-Vanya\notifications\Program.cs:line 198
+
+17.10.2023 16:38:08
+Telegram.Bot.Exceptions.ApiRequestException: Bad Request: there is no caption in the message to edit
+   at Telegram.Bot.TelegramBotClient.MakeRequestAsync[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at Telegram.Bot.TelegramBotClientExtensions.EditMessageCaptionAsync(ITelegramBotClient botClient, ChatId chatId, Int32 messageId, String caption, Nullable`1 parseMode, IEnumerable`1 captionEntities, InlineKeyboardMarkup replyMarkup, CancellationToken cancellationToken)
+   at Program.<<Main>$>g__HandleCallbackQuery|0_4(ITelegramBotClient botClient, CallbackQuery callbackQuery) in D:\Desktop\krasota-Vanya\notifications\Program.cs:line 198
+
+17.10.2023 16:38:24
+Telegram.Bot.Exceptions.ApiRequestException: Bad Request: there is no caption in the message to edit
+   at Telegram.Bot.TelegramBotClient.MakeRequestAsync[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at Telegram.Bot.TelegramBotClientExtensions.EditMessageCaptionAsync(ITelegramBotClient botClient, ChatId chatId, Int32 messageId, String caption, Nullable`1 parseMode, IEnumerable`1 captionEntities, InlineKeyboardMarkup replyMarkup, CancellationToken cancellationToken)
+   at Program.<<Main>$>g__HandleCallbackQuery|0_4(ITelegramBotClient botClient, CallbackQuery callbackQuery) in D:\Desktop\krasota-Vanya\notifications\Program.cs:line 198
+
+17.10.2023 16:38:27
+Telegram.Bot.Exceptions.ApiRequestException: Bad Request: there is no caption in the message to edit
+   at Telegram.Bot.TelegramBotClient.MakeRequestAsync[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at Telegram.Bot.TelegramBotClientExtensions.EditMessageCaptionAsync(ITelegramBotClient botClient, ChatId chatId, Int32 messageId, String caption, Nullable`1 parseMode, IEnumerable`1 captionEntities, InlineKeyboardMarkup replyMarkup, CancellationToken cancellationToken)
+   at Program.<<Main>$>g__HandleCallbackQuery|0_4(ITelegramBotClient botClient, CallbackQuery callbackQuery) in D:\Desktop\krasota-Vanya\notifications\Program.cs:line 198
+
+17.10.2023 16:38:29
+Telegram.Bot.Exceptions.ApiRequestException: Bad Request: there is no caption in the message to edit
+   at Telegram.Bot.TelegramBotClient.MakeRequestAsync[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at Telegram.Bot.TelegramBotClientExtensions.EditMessageCaptionAsync(ITelegramBotClient botClient, ChatId chatId, Int32 messageId, String caption, Nullable`1 parseMode, IEnumerable`1 captionEntities, InlineKeyboardMarkup replyMarkup, CancellationToken cancellationToken)
+   at Program.<<Main>$>g__HandleCallbackQuery|0_4(ITelegramBotClient botClient, CallbackQuery callbackQuery) in D:\Desktop\krasota-Vanya\notifications\Program.cs:line 198
+
+17.10.2023 16:38:30
+Telegram.Bot.Exceptions.ApiRequestException: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+   at Telegram.Bot.TelegramBotClient.MakeRequestAsync[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at Telegram.Bot.TelegramBotClientExtensions.EditMessageTextAsync(ITelegramBotClient botClient, ChatId chatId, Int32 messageId, String text, Nullable`1 parseMode, IEnumerable`1 entities, Nullable`1 disableWebPagePreview, InlineKeyboardMarkup replyMarkup, CancellationToken cancellationToken)
+   at Program.<<Main>$>g__HandleCallbackQuery|0_4(ITelegramBotClient botClient, CallbackQuery callbackQuery) in D:\Desktop\krasota-Vanya\notifications\Program.cs:line 210
+
+17.10.2023 16:38:31
+Telegram.Bot.Exceptions.ApiRequestException: Bad Request: there is no caption in the message to edit
+   at Telegram.Bot.TelegramBotClient.MakeRequestAsync[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at Telegram.Bot.TelegramBotClientExtensions.EditMessageCaptionAsync(ITelegramBotClient botClient, ChatId chatId, Int32 messageId, String caption, Nullable`1 parseMode, IEnumerable`1 captionEntities, InlineKeyboardMarkup replyMarkup, CancellationToken cancellationToken)
+   at Program.<<Main>$>g__HandleCallbackQuery|0_4(ITelegramBotClient botClient, CallbackQuery callbackQuery) in D:\Desktop\krasota-Vanya\notifications\Program.cs:line 198
+
+17.10.2023 16:38:36
+Telegram.Bot.Exceptions.ApiRequestException: Bad Request: there is no caption in the message to edit
+   at Telegram.Bot.TelegramBotClient.MakeRequestAsync[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at Telegram.Bot.TelegramBotClientExtensions.EditMessageCaptionAsync(ITelegramBotClient botClient, ChatId chatId, Int32 messageId, String caption, Nullable`1 parseMode, IEnumerable`1 captionEntities, InlineKeyboardMarkup replyMarkup, CancellationToken cancellationToken)
+   at Program.<<Main>$>g__HandleCallbackQuery|0_4(ITelegramBotClient botClient, CallbackQuery callbackQuery) in D:\Desktop\krasota-Vanya\notifications\Program.cs:line 198
+
+17.10.2023 16:38:36
+Telegram.Bot.Exceptions.ApiRequestException: Bad Request: there is no caption in the message to edit
+   at Telegram.Bot.TelegramBotClient.MakeRequestAsync[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at Telegram.Bot.TelegramBotClientExtensions.EditMessageCaptionAsync(ITelegramBotClient botClient, ChatId chatId, Int32 messageId, String caption, Nullable`1 parseMode, IEnumerable`1 captionEntities, InlineKeyboardMarkup replyMarkup, CancellationToken cancellationToken)
+   at Program.<<Main>$>g__HandleCallbackQuery|0_4(ITelegramBotClient botClient, CallbackQuery callbackQuery) in D:\Desktop\krasota-Vanya\notifications\Program.cs:line 198
+
+17.10.2023 16:38:37
+Telegram.Bot.Exceptions.ApiRequestException: Bad Request: there is no caption in the message to edit
+   at Telegram.Bot.TelegramBotClient.MakeRequestAsync[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at Telegram.Bot.TelegramBotClientExtensions.EditMessageCaptionAsync(ITelegramBotClient botClient, ChatId chatId, Int32 messageId, String caption, Nullable`1 parseMode, IEnumerable`1 captionEntities, InlineKeyboardMarkup replyMarkup, CancellationToken cancellationToken)
+   at Program.<<Main>$>g__HandleCallbackQuery|0_4(ITelegramBotClient botClient, CallbackQuery callbackQuery) in D:\Desktop\krasota-Vanya\notifications\Program.cs:line 198
+
+17.10.2023 16:41:29
+Telegram.Bot.Exceptions.ApiRequestException: Bad Request: there is no caption in the message to edit
+   at Telegram.Bot.TelegramBotClient.MakeRequestAsync[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at Telegram.Bot.TelegramBotClientExtensions.EditMessageCaptionAsync(ITelegramBotClient botClient, ChatId chatId, Int32 messageId, String caption, Nullable`1 parseMode, IEnumerable`1 captionEntities, InlineKeyboardMarkup replyMarkup, CancellationToken cancellationToken)
+   at Program.<<Main>$>g__HandleCallbackQuery|0_4(ITelegramBotClient botClient, CallbackQuery callbackQuery) in D:\Desktop\krasota-Vanya\notifications\Program.cs:line 198
+
+17.10.2023 16:44:08
+Telegram.Bot.Exceptions.ApiRequestException: Bad Request: there is no caption in the message to edit
+   at Telegram.Bot.TelegramBotClient.MakeRequestAsync[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at Telegram.Bot.TelegramBotClientExtensions.EditMessageCaptionAsync(ITelegramBotClient botClient, ChatId chatId, Int32 messageId, String caption, Nullable`1 parseMode, IEnumerable`1 captionEntities, InlineKeyboardMarkup replyMarkup, CancellationToken cancellationToken)
+   at Program.<<Main>$>g__HandleCallbackQuery|0_4(ITelegramBotClient botClient, CallbackQuery callbackQuery) in D:\Desktop\krasota-Vanya\notifications\Program.cs:line 198
+
+17.10.2023 16:46:01
+Telegram.Bot.Exceptions.ApiRequestException: Bad Request: there is no caption in the message to edit
+   at Telegram.Bot.TelegramBotClient.MakeRequestAsync[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at Telegram.Bot.TelegramBotClientExtensions.EditMessageCaptionAsync(ITelegramBotClient botClient, ChatId chatId, Int32 messageId, String caption, Nullable`1 parseMode, IEnumerable`1 captionEntities, InlineKeyboardMarkup replyMarkup, CancellationToken cancellationToken)
+   at Program.<<Main>$>g__HandleCallbackQuery|0_4(ITelegramBotClient botClient, CallbackQuery callbackQuery) in D:\Desktop\krasota-Vanya\notifications\Program.cs:line 198
+
+17.10.2023 16:51:31
